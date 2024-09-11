@@ -29,9 +29,8 @@ The code is written using Python 3.10 on Ubuntu 22.04.
 
 I set the environment up using:
 ```
-$ python 3.10 -m venv code
-$ cd code
-$ source bin/activate
+$ python3.10 -m venv code
+$ source code/bin/activate
 ```
 
 Then you can clone this project and start working with it.
